@@ -1,1 +1,10 @@
-# sign-recognition
+# 20191IST0009_NASSCOM
+Anika Sahukar
+
+20191IST0009
+
+5IST1
+
+Presidency University
+
+# project sign recognition
